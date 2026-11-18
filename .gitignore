@@ -1,0 +1,13 @@
+# build workspace (sources, toolchain, out/)
+.work/
+# generated artifacts
+release/
+*.img
+*.zip
+*.tar.gz
+
+# editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
