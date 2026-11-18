@@ -1,5 +1,7 @@
 # vermeer-gki-sukisu-susfs
 
+中文 | [English](README.en.md)
+
 Redmi K70（`vermeer` / SM8550）的 **GKI 5.15.194** 自编译内核：
 **SukiSU-Nova（内置 root）+ SUSFS + KPM（KernelPatch）**，只替换内核、保留原厂 `vendor_dlkm` 模块。
 
